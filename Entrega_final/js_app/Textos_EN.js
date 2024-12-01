@@ -1,7 +1,7 @@
 let textos_EN = {
 
 	// textos titulos
-	'text_titulo_app':'IU ET2 Interface',
+	'text_titulo_app':'IU ET3 Interface',
 	'text_titulo_menu': 'Menu Options',
 	'text_titulo_pie': 'Page Footer',
 	'text_datos_personales': 'Personal Data',

@@ -4,7 +4,7 @@ class project extends EntidadAbstracta{
 		
 		super();
 		this.columnasamostrar = Array();
-		this.entidad = 'project';
+		this.entidad = 'characteristics';
 
 		this.inicializar();
 
